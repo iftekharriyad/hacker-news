@@ -1,5 +1,5 @@
-# A simple News App for searching news from various sources in the internet.
-This project is built with [Create React App](https://github.com/facebook/create-react-app) and [Material-UI](https://github.com/mui-org/material-ui) and [newsapi.org](https://newsapi.org/) as a news source.
+# Hacker News Web App
+This project is built with [Create React App](https://github.com/facebook/create-react-app) and [Material-UI](https://github.com/mui-org/material-ui).
 
 
 
